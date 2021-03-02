@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Rohits's GitHub stats](https://github-readme-stats.vercel.app/api?username=r0hitraj)](https://github.com/r0hitraj/github-readme-stats)
+[![Rohits's GitHub stats](https://github-readme-stats.vercel.app/api?username=r0hitraj&&count_private=true&theme=highcontrast&show_icons=true)](https://github.com/r0hitraj/github-readme-stats)
 
 
 <!--
