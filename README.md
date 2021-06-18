@@ -1,6 +1,8 @@
 ### Hi there 👋
 ##🌱 I’m currently learning and 👯 I’m looking to collaborate on
 
+ <a href="https://r0hitraj/github.io"><img src="images/Rohit Raj.svg" alt="Rohit's Header"></a>
+
 [![Rohits's GitHub stats](https://github-readme-stats.vercel.app/api?username=r0hitraj&&count_private=true&theme=highcontrast&show_icons=true)](https://github.com/r0hitraj/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0hitraj&repo=Criptabit&theme=highcontrast&show_icons=true)](https://github.com/r0hitraj/criptabit)
