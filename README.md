@@ -1,7 +1,7 @@
 
  <h1><a href="https://r0hitraj.github.io"><img src="Images/Rohit Raj.png" alt="Rohit's Header"></a></h1>
  <div align="center">
-  ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming&theme=highcontrast&animation=grow_out_in)
+  ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming&theme=dark&animation=grow_out_in)
 
 
 [![Rohits's GitHub stats](https://github-readme-stats.vercel.app/api?username=r0hitraj&&count_private=true&theme=highcontrast&show_icons=true)](https://github.com/r0hitraj/github-readme-stats) 
