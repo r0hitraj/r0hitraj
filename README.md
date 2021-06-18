@@ -2,7 +2,7 @@
  <h1><a href="https://r0hitraj.github.io"><img height="300em" src="Images/Rohit Raj.png" alt="Rohit's Header"></a></h1>
  <div align="center">
    
-<img src="https://github-readme-quotes.herokuapp.com/quote?theme=theme=dark&border_color=61dafb&hide_border=true&animation=grow_out_in" />
+<img src="https://github-readme-quotes.herokuapp.com/quote?theme=react&border_color=61dafb&hide_border=true&animation=grow_out_in" />
                                                           
  
  
