@@ -3,7 +3,7 @@
 
 [![Rohits's GitHub stats](https://github-readme-stats.vercel.app/api?username=r0hitraj&&count_private=true&theme=highcontrast&show_icons=true)](https://github.com/r0hitraj/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0hitraj&repo=github-readme-stats)](https://github.com/r0hitraj/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0hitraj&repo=Wepoll)](https://github.com/r0hitraj/wepoll)
 
 
 
