@@ -2,22 +2,39 @@
  <h1><a href="https://r0hitraj.github.io"><img height="300em" src="Images/Rohit Raj.png" alt="Rohit's Header"></a></h1>
  <div align="center">
    
-<img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in" />
+<img src="https://github-readme-quotes.herokuapp.com/quote?theme=theme=react&border_color=61dafb&hide_border=true&animation=grow_out_in" />
                                                           
-
-
-
-[![Rohits's GitHub stats](https://github-readme-stats.vercel.app/api?username=r0hitraj&&count_private=true&&include_all_commits=true&theme=highcontrast&show_icons=true)](https://github.com/r0hitraj/github-readme-stats) 
-
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0hitraj&repo=Criptabit&theme=highcontrast&show_icons=true)](https://github.com/r0hitraj/criptabit)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0hitraj&repo=MultiPurposeMatchMaker&theme=highcontrast&show_icons=true)](https://github.com/r0hitraj/MultiPurposeMatchMaker)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0hitraj&repo=Wepoll&theme=highcontrast&show_icons=true)](https://github.com/r0hitraj/wepoll)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0hitraj&repo=Payroll-Management-System&theme=highcontrast&show_icons=true)](https://github.com/r0hitraj/Payroll-Management-System)
  
-  <img src="https://activity-graph.herokuapp.com/graph?username=r0hitraj&theme=highcontrasr&bg_color=20232a&hide_border=true" width="100%"/>
+ 
+ <h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/r0hitraj/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=r0hitraj&theme=react&border=61dafb&hide_border=true" alt="r0hitraj" />
+    </a>
+    <a href="https://github.com/r0hitraj/github-readme-stats" title="Go to Source">
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=r0hitraj&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0hitraj&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=r0hitraj&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0hitraj&repo=Criptabit&theme=react&border_color=61dafb&hide_border=true&show_icons=true)](https://github.com/r0hitraj/criptabit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0hitraj&repo=MultiPurposeMatchMaker&theme=react&border_color=61dafb&hide_border=true&show_icons=true)](https://github.com/r0hitraj/MultiPurposeMatchMaker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0hitraj&repo=Wepoll&theme=react&border_color=61dafb&hide_border=true&show_icons=true)](https://github.com/r0hitraj/wepoll)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0hitraj&repo=Payroll-Management-System&theme=react&border_color=61dafb&hide_border=true&show_icons=true)](https://github.com/r0hitraj/Payroll-Management-System)
+ 
+ 
+  
 
  </div>
 
