@@ -15,6 +15,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0hitraj&repo=MultiPurposeMatchMaker&theme=highcontrast&show_icons=true)](https://github.com/r0hitraj/MultiPurposeMatchMaker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0hitraj&repo=Wepoll&theme=highcontrast&show_icons=true)](https://github.com/r0hitraj/wepoll)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0hitraj&repo=Payroll-Management-System&theme=highcontrast&show_icons=true)](https://github.com/r0hitraj/Payroll-Management-System)
+ 
+  <img src="https://activity-graph.herokuapp.com/graph?username=r0hitraj&theme=highcontrasr&bg_color=20232a&hide_border=true" width="100%"/>
 
 
  </div>
