@@ -9,7 +9,6 @@
 
 [![Rohits's GitHub stats](https://github-readme-stats.vercel.app/api?username=r0hitraj&&count_private=true&&include_all_commits=true&theme=highcontrast&show_icons=true)](https://github.com/r0hitraj/github-readme-stats) 
 
- </div>
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0hitraj&repo=Criptabit&theme=highcontrast&show_icons=true)](https://github.com/r0hitraj/criptabit)
@@ -18,6 +17,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0hitraj&repo=Payroll-Management-System&theme=highcontrast&show_icons=true)](https://github.com/r0hitraj/Payroll-Management-System)
 
 
+ </div>
 
 <!--
 **r0hitraj/r0hitraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
