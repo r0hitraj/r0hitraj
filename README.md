@@ -3,7 +3,7 @@
 
 [![Rohits's GitHub stats](https://github-readme-stats.vercel.app/api?username=r0hitraj&&count_private=true&theme=highcontrast&show_icons=true)](https://github.com/r0hitraj/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0hitraj&repo=Criptabit)](https://github.com/r0hitraj/criptabitl)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0hitraj&repo=Criptabit&theme=highcontrast&show_icons=true)](https://github.com/r0hitraj/criptabitl)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0hitraj&repo=MultiPurposeMatchMaker)](https://github.com/r0hitraj/MultiPurposeMatchMaker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0hitraj&repo=Wepoll)](https://github.com/r0hitraj/wepoll)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0hitraj&repo=Wepoll)](https://github.com/r0hitraj/wepoll)
