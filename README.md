@@ -1,7 +1,5 @@
-### Hi there 👋
-##🌱 I’m currently learning and 👯 I’m looking to collaborate on
 
- <a href="https://r0hitraj.github.io"><img src="Images/Rohit Raj.png" alt="Rohit's Header"></a>
+ <h1><a href="https://r0hitraj.github.io"><img src="Images/Rohit Raj.png" alt="Rohit's Header"></a></h1>
 
 [![Rohits's GitHub stats](https://github-readme-stats.vercel.app/api?username=r0hitraj&&count_private=true&theme=highcontrast&show_icons=true)](https://github.com/r0hitraj/github-readme-stats)
 
