@@ -1,5 +1,6 @@
 
- <h1><a href="https://r0hitraj.github.io"><img height="300em" src="Images/Rohit Raj.png" alt="Rohit's Header"></a></h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=r0hitraj.r0hitraj">
+<h1><a href="https://r0hitraj.github.io"><img height="300em" src="Images/Rohit Raj.png" alt="Rohit's Header"></a></h1>
  <div align="center">
  
  
