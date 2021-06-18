@@ -1,8 +1,9 @@
 ### Hi there 👋
-🌱 I’m currently learning and 👯 I’m looking to collaborate on
+##🌱 I’m currently learning and 👯 I’m looking to collaborate on
+
 [![Rohits's GitHub stats](https://github-readme-stats.vercel.app/api?username=r0hitraj&&count_private=true&theme=highcontrast&show_icons=true)](https://github.com/r0hitraj/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0hitraj&repo=github-readme-stats)](https://github.com/r0hitraj/Criptabit/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0hitraj&repo=github-readme-stats)](https://github.com/r0hitraj/github-readme-stats)
 
 
 
