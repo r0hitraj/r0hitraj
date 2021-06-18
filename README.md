@@ -1,8 +1,8 @@
 
- <h1><a href="https://r0hitraj.github.io"><img src="Images/Rohit Raj.png" alt="Rohit's Header"></a></h1>
+ <h1><a href="https://r0hitraj.github.io"><img height="300em" src="Images/Rohit Raj.png" alt="Rohit's Header"></a></h1>
  <div align="center">
    
-<img height="400em" src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in" />
+<img height="200em" src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in" />
                                                           
 
 
