@@ -1,7 +1,10 @@
 ### Hi there 👋
+🌱 I’m currently learning and 👯 I’m looking to collaborate on
 [![Rohits's GitHub stats](https://github-readme-stats.vercel.app/api?username=r0hitraj&&count_private=true&theme=highcontrast&show_icons=true)](https://github.com/r0hitraj/github-readme-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<r0hitraj>&theme=<=highcontrast>" />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0hitraj&repo=github-readme-stats)](https://github.com/r0hitraj/Criptabit/github-readme-stats)
+
+
 
 <!--
 **r0hitraj/r0hitraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
