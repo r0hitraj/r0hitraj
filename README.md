@@ -47,11 +47,6 @@
 </p>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0hitraj&repo=Criptabit&theme=react&border_color=61dafb&hide_border=true&show_icons=true)](https://github.com/r0hitraj/criptabit)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0hitraj&repo=MultiPurposeMatchMaker&theme=react&border_color=61dafb&hide_border=true&show_icons=true)](https://github.com/r0hitraj/MultiPurposeMatchMaker)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0hitraj&repo=Wepoll&theme=react&border_color=61dafb&hide_border=true&show_icons=true)](https://github.com/r0hitraj/wepoll)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0hitraj&repo=Payroll-Management-System&theme=react&border_color=61dafb&hide_border=true&show_icons=true)](https://github.com/r0hitraj/Payroll-Management-System)
- 
  
   
 
