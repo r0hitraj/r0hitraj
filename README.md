@@ -47,11 +47,15 @@
 </p>
 
 
+
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0hitraj&repo=Criptabit&theme=react&border_color=61dafb&hide_border=true&show_icons=true)](https://github.com/r0hitraj/criptabit)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0hitraj&repo=MultiPurposeMatchMaker&theme=react&border_color=61dafb&hide_border=true&show_icons=true)](https://github.com/r0hitraj/MultiPurposeMatchMaker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0hitraj&repo=Wepoll&theme=react&border_color=61dafb&hide_border=true&show_icons=true)](https://github.com/r0hitraj/wepoll)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0hitraj&repo=Payroll-Management-System&theme=react&border_color=61dafb&hide_border=true&show_icons=true)](https://github.com/r0hitraj/Payroll-Management-System)
+
+<img src="https://github-profile-trophy.vercel.app/?username=r0hitraj&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+
  
   
 
